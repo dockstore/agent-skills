@@ -1,0 +1,7 @@
+{
+  "name": "dockstore",
+  "version": "0.1.0",
+  "description": "Search and inspect bioinformatics tools, workflows and notebooks on Dockstore via its MCP server.",
+  "license": "Apache-2.0",
+  "homepage": "https://dockstore.org"
+}
