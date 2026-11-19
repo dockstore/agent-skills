@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dockstore": {
+      "type": "http",
+      "url": "https://dockstore.org/mcp"
+    }
+  }
+}
